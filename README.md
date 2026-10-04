@@ -12,3 +12,11 @@ This Python program checks the strength of a password.
 - Strong
   ### Author
   Zainab
+
+## Task 2 - Encryption Project
+This Python program encrypts and decrypts text.
+- Encrypts user text
+- Decrypts encrypted text back to the original message
+- Demonstrates basic encryption and decryption concepts
+ ### Technologies Used
+- Python
