@@ -1,0 +1,7 @@
+password = input("Enter Password")
+has_number = any(char .isdigit() for char in password)
+has_upper = any(char .isupper() for char in password)
+has_symbol = any(not char .isalnum() for char in password)
+if len(password) < 8: print("Weak Password")
+elif has_number and has_upper and has_symbol: print( "Strong Password" )
+else: print( "Medium Password")
