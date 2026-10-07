@@ -1,5 +1,5 @@
 ## DecodeLabs Cyber Security Internship 
-Cyber Security Projects
+# Cyber Security Projects
 This repository contains cybersecurity projects completed as part of the DecodeLabs Industrial Training Program.
 
 ## Task 1 - Password Strength Checker 
