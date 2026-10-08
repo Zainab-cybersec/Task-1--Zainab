@@ -36,5 +36,17 @@ This project focuses on identifying phishing emails and messages.
 - Cybersecurity Analysis
 - PDF Report
 
+## Task 4 - System Vulnerability Checklist 
+- Checks login password security
+- Verifies Windows updatE status
+- Checks antivirus protection status
+- Verifies firewell protection settings
+- Identifies security vulnerabilities and risks
+- Provides recommendations to improve system security
+  ## Technologies Used
+  - Windows Security
+  - Cyber Security Concepts
+  - Risk Assessment
+     
   ### Author
   Zainab
